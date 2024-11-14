@@ -8,6 +8,5 @@
 //********************************************************************
 int fifo()
 {
-#this is a comments, this is my change
   return 2;
 }
